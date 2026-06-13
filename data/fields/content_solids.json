@@ -1,0 +1,12 @@
+{
+    "key": "content",
+    "type": "combo",
+    "label": "{content}",
+    "autoSuggestions": false,
+    "stringsCrossReference": "{content}",
+	"options": [
+		"silage",
+		"crop",
+		"salt"
+	]
+}
